@@ -18,9 +18,14 @@ namespace Chapter6_WinFormsApp
             // Application.EnableVisualStyles();
             // Application.SetCompatibleTextRenderingDefault(false);
             // Application.Run(new Form1());
+            /*
             TestWindow();
             StateControlledLoop68();
             StateControlledLoop69();
+            */
+
+            Chapter7_SystemArrayExample.Run();
+
         }
 
         public static void TestWindow() // Chapter 6, example 6-5, pg 274-275
