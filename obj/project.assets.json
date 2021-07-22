@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ethan\\source\\VisualStudioRepos\\C_sharp_WindowsForms\\Chapter6_WinFormsApp.csproj",
-      "projectName": "Chapter6_WinFormsApp",
-      "projectPath": "C:\\Users\\Ethan\\source\\VisualStudioRepos\\C_sharp_WindowsForms\\Chapter6_WinFormsApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ethan\\source\\VisualStudioRepos\\C_sharp_WindowsForms\\Windows_Forms.csproj",
+      "projectName": "Windows_Forms",
+      "projectPath": "C:\\Users\\Ethan\\source\\VisualStudioRepos\\C_sharp_WindowsForms\\Windows_Forms.csproj",
       "packagesPath": "C:\\Users\\Ethan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ethan\\source\\VisualStudioRepos\\C_sharp_WindowsForms\\obj\\",
       "projectStyle": "PackageReference",

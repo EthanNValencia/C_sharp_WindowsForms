@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.exe
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.runtimeconfig.json
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.runtimeconfig.dev.json
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.dll
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\bin\Debug\netcoreapp3.1\Windows_Forms.pdb
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Chapter6_WinFormsApp.Form1.resources
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.csproj.GenerateResource.cache
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.dll
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.pdb
+C:\Users\Ethan\source\VisualStudioRepos\C_sharp_WindowsForms\obj\Debug\netcoreapp3.1\Windows_Forms.genruntimeconfig.cache
